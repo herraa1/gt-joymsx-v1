@@ -89,7 +89,14 @@ This board has been successfully built and works fine.
 
 ## [Enclosure](enclosure/)
 
-TBD
+A simple acrylic enclosure design for the project is provided to protect the electronic components and provide strain relief for the extension cord.
+
+The enclosure uses a 5mm acrylic sheet.
+
+[<img src="images/gt-joymsx-v1-enclosure-overview-1-IMG_7817.png" width="400"/>](images/gt-joymsx-v1-enclosure-overview-1-IMG_7817.png)
+
+[<img src="images/gt-joymsx-v1-enclosure-overview-2-IMG_7818.png" width="400"/>](images/gt-joymsx-v1-enclosure-overview-2-IMG_7818.png)
+
 
 ## Tips
 
