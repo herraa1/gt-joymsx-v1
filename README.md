@@ -77,7 +77,7 @@ Please, use [gt-joymsx-v1 Build1](#build1) for making boards.
 
 ### [Build1](hardware/kicad/gt-joymsx-v1-build1)
 
-[Bill Of Materials (BoM)](https://html-preview.github.io/?url=https://raw.githubusercontent.com/herraa1/gt-joymsx-v1/main/hardware/kicad/gt-joymsx-v1-build1/bom/ibom.html)
+[Bill Of Materials (BoM)](https://htmlpreview.github.io/?https://raw.githubusercontent.com/herraa1/gt-joymsx-v1/main/hardware/kicad/gt-joymsx-v1-build1/bom/ibom.html)
 
 This board has been successfully built and works fine.
 
